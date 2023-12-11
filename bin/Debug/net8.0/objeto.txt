@@ -1,0 +1,1 @@
+{"AnimalID":31,"Nombre":"Zorro","Especie":"Carnivoro","Edad":23,"FechaLlegada":"2023-12-10T20:19:06.2466264-05:00","EstadoSalud":"Enfermo"}
